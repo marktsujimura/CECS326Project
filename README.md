@@ -1,9 +1,9 @@
 # CECS326Project
 
+Discord : https://discord.gg/3fcFT
 
 
-
-TO DO:
+#TO DO:
 
 High Priority:
 - Figure out code for Math portion
