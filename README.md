@@ -18,3 +18,4 @@ Low Priority:
 - Pictures/Icons for various things (Buildings, upgrades, etc)
 - Stats page
 - Achievements
+- Map System (Grid)
