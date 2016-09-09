@@ -8,7 +8,7 @@ Discord : https://discord.gg/3fcFT
 High Priority:
 - Figure out code for Math portion
 - Figure out the code for upgrades/buildings
-- Think about names of the upgrades/buildings (Please add ideas onto the exisitng file)
+- Think about names of the upgrades/buildings (Please add ideas onto the existing file)
 - Figure out the UI
 
 
