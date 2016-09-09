@@ -1,4 +1,4 @@
-# CECS326Projec
+# CECS326Project
 
 
 
@@ -15,3 +15,6 @@ High Priority:
 Low Priority:
 - Figure out what to do with resource(bitcoins)
 - Figure out a general story
+- Pictures/Icons for various things (Buildings, upgrades, etc)
+- Stats page
+- Achievements
