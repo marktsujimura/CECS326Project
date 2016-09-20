@@ -5,18 +5,19 @@ Discord : https://discord.gg/3fcFT
 
 #TO DO:
 
-High Priority:
-- Figure out code for Math portion (Daniel and Ryan)
+Version 1:
+- Figure out code for Math portion
+      - 
 - Figure out the code for upgrades/buildings
-- Think about names of the upgrades/buildings (Please add ideas onto the existing file)
+- Think about names of the upgrades/buildings
 - Figure out the UI
-- UML (Tristan and Mark)
+- UML/Class Diagram
 
 
-Low Priority:
-- Figure out what to do with resource(bitcoins)
-- Figure out a general story
+Version 2:
+- Figure out what to do with resource (bitcoins)
+- create and display the grid/node map
 - Pictures/Icons for various things (Buildings, upgrades, etc)
 - Stats page
 - Achievements
-- Map System (Grid)
+
