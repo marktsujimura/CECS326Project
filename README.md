@@ -6,10 +6,10 @@ Discord : https://discord.gg/3fcFT
 #TO DO:
 
 Version 1:
-- Figure out code for Math portion
+- (DONE) Figure out code for Math portion
 - Figure out the code for upgrades/buildings
 - Think about names of the upgrades/buildings
-- Figure out the UI
+- (DONE) Figure out the basic UI
 - Use Case Diagram
 
 
