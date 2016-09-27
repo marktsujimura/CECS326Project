@@ -7,17 +7,19 @@ Discord : https://discord.gg/3fcFT
 
 Version 1:
 - Figure out code for Math portion
-      - 
 - Figure out the code for upgrades/buildings
 - Think about names of the upgrades/buildings
 - Figure out the UI
-- UML/Class Diagram
+- Use Case Diagram
 
 
 Version 2:
-- Figure out what to do with resource (bitcoins)
+- Figure out what to do with resource (specifics)
 - create and display the grid/node map
-- Pictures/Icons for various things (Buildings, upgrades, etc)
+      -Think of algorithm for attacking
 - Stats page
 - Achievements
 
+Version 3:
+
+- Pictures/Icons for various things (Buildings, upgrades, etc)
