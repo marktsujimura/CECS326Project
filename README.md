@@ -15,7 +15,7 @@ Version 1:
 
 Version 2:
 - Figure out what to do with resource (specifics)
-- create and display the grid/node map
+- create and display the grid/node map 
       -Think of algorithm for attacking
 - Stats page
 - Achievements
