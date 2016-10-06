@@ -11,7 +11,7 @@ public class Frame extends JFrame{
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		add(panel);
 		setVisible(true);
-		setBounds(100, 100, 1380, 820);
+		setBounds(0, 0, 1400, 800);
 		getContentPane().add(panel);
 		t.start();
 	}
