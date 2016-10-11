@@ -1,8 +1,5 @@
 # CECS326Project
 
-Discord : https://discord.gg/3fcFT
-
-
 #TO DO:
 
 Version 1:
@@ -10,7 +7,7 @@ Version 1:
 - Figure out the code for upgrades/buildings
 - Think about names of the upgrades/buildings
 - (DONE) Figure out the basic UI
-- Use Case Diagram
+- (SEMI) Use Case Diagram
 
 
 Version 2:
