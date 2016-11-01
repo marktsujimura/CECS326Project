@@ -20,7 +20,7 @@ Version 1:
 
 
 Version 2:
-- Figure out what to do with resource (specifics)
+- Figure out what to do with resource  (specifics)
 - create and display the grid/node map 
 
       - Think of algorithm for attacking
@@ -30,3 +30,9 @@ Version 2:
 Version 3:
 
 - Pictures/Icons for various things (Buildings, upgrades, etc)
+
+
+
+Definitions
+Bitcoin - resource
+Power - strength
