@@ -1,0 +1,32 @@
+Achievements
+
+
+BUILD
+----------------
+- Build your first building
+
+- Build 25 Buildings
+
+
+
+
+UPRAGDE
+----------------------
+- Upgrade your first building
+
+
+
+BATTLE
+-----------------------
+- Win your first battle
+
+- Lose your first battle
+
+- Win 5 battles in a row
+
+
+OTHERS
+----------------------
+- Play for One hour
+
+
